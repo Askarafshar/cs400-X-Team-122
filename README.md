@@ -14,8 +14,8 @@
    <p> *What are the GitHub usernames and names of your team members?</p>
     <table>
       <tr>
-        <td><strong>GitHub username 1:</strong> <p style="color:red;">safipourafsh</p></td>
-        <td><strong>name 1:</strong> Askar Safipour Afshar </td>
+        <td><strong>GitHub username 1:</strong> <i>safipourafsh</i></td>
+        <td><strong>name 1:</strong> #Askar Safipour Afshar </td>
       </tr>
       <tr>
         <td><strong>GitHub username 2:</strong> psapienza</td>

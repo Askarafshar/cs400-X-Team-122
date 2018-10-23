@@ -12,12 +12,12 @@
 
 2. Answer these questions
    <p> *What are the GitHub usernames and names of your team members?</p>
-    <ul type="square">
-      | <li> <strong>GitHub username 1:</strong> safipourafsh    |  <strong>name 1:</strong> Askar Safipour Afshar </li>|
-      | <li> <strong>GitHub username 2:</strong> psapienza       |  <strong>name 2:</strong> Paul Joseph Sapienza  </li>|
-      | <li> <strong>GitHub username 3:</strong>                 |  <strong>name 3:</strong> Jaskirat Singh        </li>|
-      | <li> <strong>GitHub username 4:</strong> chencynthia123  |  <strong>name 4:</strong> Chen Xu               </li>|
-     </ul> 
+    
+      |  <strong>GitHub username 1:</strong> safipourafsh   |   <strong>name 1:</strong> Askar Safipour Afshar |
+      |  <strong>GitHub username 2:</strong> psapienza      |   <strong>name 2:</strong> Paul Joseph Sapienza  |
+      |  <strong>GitHub username 3:</strong>                |   <strong>name 3:</strong> Jaskirat Singh        |
+      |  <strong>GitHub username 4:</strong> chencynthia123 |   <strong>name 4:</strong> Chen Xu               |
+   
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
 

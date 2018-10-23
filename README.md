@@ -11,7 +11,7 @@
    * Remove the angle brackets <> if they are still there in the title
 
 2. Answer these questions
-    * What are the GitHub usernames and names of your team members?
+   <p> * What are the GitHub usernames and names of your team members?</p>
     
     <ul>
        <li> GitHub username 1: safipourafsh    |  name 1: Askar Safipour Afshar |</li>

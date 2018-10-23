@@ -30,6 +30,7 @@
         <td><strong>name 4:</strong> Chen Xu</td>
       </tr>                     
     </table>
+    
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
 

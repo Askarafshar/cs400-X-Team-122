@@ -1,5 +1,5 @@
 <!-- Embeded image and aligned it to the center-->
-<p align="center"><img src="images/UW-Madison-Logo.jpg" height="120" width="400"></p>
+<p align="center"><img src="Images/UW-Madison-Logo.jpg" height="120" width="400"></p>
 
 <!--line--><hr>
 

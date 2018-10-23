@@ -15,10 +15,10 @@
     <table>
       <tr>
         <td><strong>GitHub username 1:</strong> <i>safipourafsh</i></td>
-        <td><strong>name 1:</strong> #Askar Safipour Afshar </td>
+        <td><strong>name 1:</strong> Askar Safipour Afshar </td>
       </tr>
       <tr>
-        <td><strong>GitHub username 2:</strong> psapienza</td>
+        <td><strong>GitHub username 2:</strong> <i>psapienza</i></td>
         <td><strong>name 2:</strong> Paul Joseph Sapienza  </td>
       </tr>
       <tr>
@@ -26,7 +26,7 @@
         <td><strong>name 3:</strong> Jaskirat Singh     </td>
       </tr>
       <tr>
-        <td><strong>GitHub username 4:</strong> chencynthia123</td>
+        <td><strong>GitHub username 4:</strong> <i>chencynthia123</i></td>
         <td><strong>name 4:</strong> Chen Xu</td>
       </tr>                     
     </table>

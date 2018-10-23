@@ -12,6 +12,7 @@
 
 2. Answer these questions
     * What are the GitHub usernames and names of your team members?
+    
     <ul>
        <li> GitHub username 1: safipourafsh    |  name 1: Askar Safipour Afshar |</li>
        <li> GitHub username 2: psapienza       |  name 2: Paul Joseph Sapienza  |</li>

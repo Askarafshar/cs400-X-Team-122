@@ -22,7 +22,7 @@
         <td><strong>name 2:</strong> Paul Joseph Sapienza  </td>
       </tr>
       <tr>
-        <td><strong>GitHub username 3:</strong></td>
+        <td><strong>GitHub username 3:</strong> <i>jsingh39</i></td>
         <td><strong>name 3:</strong> Jaskirat Singh     </td>
       </tr>
       <tr>

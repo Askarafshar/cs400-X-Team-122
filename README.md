@@ -1,3 +1,8 @@
+<!-- Embeded image and aligned it to the center-->
+<p align="center"><img src="images/UW-Madison-Logo.jpg" height="120" width="400"></p>
+
+<!--line--><hr>
+
 # xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
 
 1. Edit the title of this document

@@ -11,13 +11,12 @@
    * Remove the angle brackets <> if they are still there in the title
 
 2. Answer these questions
-   <p> * What are the GitHub usernames and names of your team members?</p>
-    
-    <ul>
-       <li> GitHub username 1: safipourafsh    |  name 1: Askar Safipour Afshar |</li>
-       <li> GitHub username 2: psapienza       |  name 2: Paul Joseph Sapienza  |</li>
-       <li> GitHub username 3:                 |  name 3: Jaskirat Singh        |</li>
-       <li> GitHub username 4: chencynthia123  |  name 4: Chen Xu               |</li>
+   <p> *What are the GitHub usernames and names of your team members?</p>
+    <ul type="square">
+       <li> *GitHub username 1: safipourafsh      name 1: Askar Safipour Afshar </li>
+       <li> *GitHub username 2: psapienza         name 2: Paul Joseph Sapienza  </li>
+       <li> *GitHub username 3:                   name 3: Jaskirat Singh        </li>
+       <li> *GitHub username 4: chencynthia123    name 4: Chen Xu               </li>
      </ul> 
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 

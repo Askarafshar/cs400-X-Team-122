@@ -9,6 +9,8 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
+<ul> <li>We listed all the tasks based on time and effort they were needed,</li> <li>then randomly assigned the tasks to the team members.</li>
+  <li> ...</li></ul>
 
 
 

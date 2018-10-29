@@ -41,9 +41,9 @@
     </table>
     
    * When did you complete this exercise? 
-     We met expectations prior to the deadline, coordinating a meeting in College Library.
+     - We met expectations prior to the deadline, coordinating a meeting in College Library.
    * How long did it take your team to complete this exercise? 
-     Because significant work was done by Askar prior to meeting in College Library, we were able to complete this in under an hour. 
+     - Because significant work was done by Askar prior to meeting in College Library, we were able to complete this in under an hour. 
 
 ## Table of Contents
 

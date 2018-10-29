@@ -37,22 +37,34 @@ Describe at a high level a program that could solve that problem.
 
 <table>
  <tr>
-   <td>1. Name: Give your project proposal a name (and edit the top line of this file)</td>
+   <td>1. Name: Give your project proposal a name (and edit the top line of this file)
+  <ul><li> ....</li></ul>
+  </td>
   </tr>
   <tr>
-    <td>2. Output: Describe the output your program will produce.  Include and example format of the output produced.</td>
+    <td>2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+   <ul><li> ....</li></ul>
+   </td>
   </te>
     <tr>
-    <td>3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.</td>
+    <td>3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+ <ul><li> ....</li></ul>
+ </td>
   </te>
     <tr>
-    <td>4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.</td>
+    <td>4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+ <ul><li> ....</li></ul>
+ </td>
   </te>
     <tr>
-    <td>5. Types List: Break your solution idea down into units that you think can be implemented with a single class.</td>
+    <td>5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+ <ul><li> ....</li></ul>
+ </td>
   </te>
     <tr>
-    <td>Name each interface or class and briefly describe its function or purpose.</td>
+    <td>Name each interface or class and briefly describe its function or purpose.
+     <ul><li> ....</li></ul>
+ </td>
   </te>
 </table>
 

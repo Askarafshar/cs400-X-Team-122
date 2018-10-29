@@ -11,7 +11,7 @@ and missed deadlines.
 ## How we will assign (and reassign) tasks
 <ol> <!-- this is an unordered list -->
   <li>First we identify the tasks that can be assigned to the team members,</li>
-  <li>Then, we devide all the tasks into four groups.</li>
+  <li>Then, we divide all the tasks into four groups.</li>
   <li>Finally, we consider who the best person is to take them on based on the skills needed to tackle the task.</li>
   <li>If the step 3 didn't work, we will assign each group of the tasks randonmly to the team members</li>
   <li> ...</li><!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->

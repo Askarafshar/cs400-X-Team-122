@@ -34,28 +34,27 @@ Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
-
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
-
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
-
-
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
-
-
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-
-
-Name each interface or class and briefly describe its function or purpose.
-
+<table>
+ <tr>
+   <td>1. Name: Give your project proposal a name (and edit the top line of this file)</td>
+  </tr>
+  <tr>
+    <td>2. Output: Describe the output your program will produce.  Include and example format of the output produced.</td>
+  </te>
+    <tr>
+    <td>3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.</td>
+  </te>
+    <tr>
+    <td>4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.</td>
+  </te>
+    <tr>
+    <td>5. Types List: Break your solution idea down into units that you think can be implemented with a single class.</td>
+  </te>
+    <tr>
+    <td>Name each interface or class and briefly describe its function or purpose.</td>
+  </te>
+</table>
 
 ## Edit and Submit this file and any figures referenced by this document.
 

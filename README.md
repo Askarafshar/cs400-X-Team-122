@@ -1,7 +1,7 @@
 <!-- Embeded image and aligned it to the center-->
 <p align="center"><img src="Images/UW-Madison-Logo.jpg" height="120" width="400"></p>
 
-<!--line--><hr>
+<hr><!--line-->
 <table>
  <tr>
    <td><p style="border-style: solid;">Here is the original repository I imported the files from, in case you want to compare the original format with our version: https://github.com/cs400-deppeler/xteam-exercise-2</p>

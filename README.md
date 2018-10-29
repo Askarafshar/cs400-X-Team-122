@@ -10,6 +10,7 @@
        <td><p>I will delete this 👆 when we are done! </p></td>
   </te>
 </table>
+
 # xteam-exercise-2: https://github.com/safipourafsh/cs400-X-Team-122
 
 1. Edit the title of this document

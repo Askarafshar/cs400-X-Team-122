@@ -32,6 +32,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+- Our X-Team would like to visualize the grades that UW Madison students got in certain classes at the university in a clean and comprehensive way.
+
+
 ## Questions to answer for Exercise #2
 
 

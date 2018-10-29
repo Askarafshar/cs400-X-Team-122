@@ -65,9 +65,9 @@ Describe at a high level a program that could solve that problem.
  <ul>    
   
 <li>input button:</li>
-name of the department
-for name of courses and the number of the courses
-grades for the courses
+name of the department<br>
+for name of courses and the number of the courses<br>
+grades for the courses<br>
 number of the students who take the course
 <li>output:</li>
 graph

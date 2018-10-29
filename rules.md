@@ -52,8 +52,8 @@ and missed deadlines.
   <ul><li> In the event that a member catches another member plagiarizing, the group must be alerted. Then, we will request the 24 hour amnesty period. The team member accused must report themselves to the professors. </ul> </li>
   <ul><li> NOTE: There should be a zero tolerance policy for plagiarism! The fact that there is a 24 hour amnesty period is not supposed to be an invitation to practice computer science unethically. </ul> </li>
   <li>The team must have clearly defined roles.</li>
-  <i>The team must be willing to share its resources.</li>
+  <li>The team must be willing to share its resources.</li>
   <li> The team must have frequent, effective communication.</li>
-    <li> The team must be introspective. </li> 
+  <li> The team must be introspective. </li> 
   
 </ul>

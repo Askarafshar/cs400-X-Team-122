@@ -83,7 +83,9 @@ graph
   </te>
     <tr>
     <td>Name each interface or class and briefly describe its function or purpose.
-     <ul><li> ....</li></ul>
+     <ul><li> GraphADT, the interface for the graph class</li></ul>
+     <ul><li> Graph Class, creates the output graph from the input grades and classes</li></ul>
+     <ul><li> GradesList Class, a class that stores the grades for the specified classes</li></ul>
  </td>
   </te>
 </table>

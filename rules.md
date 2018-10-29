@@ -49,8 +49,8 @@ and missed deadlines.
 
 <ul> <!-- this is an unordered list -->
   <li> Plagiarism: In the event that a team member plagiarizes, it is in their interest to report to the rest of the group and request the 24 hour amnesty period. The team member also must report themselves to the professors. 
-  </li> In the event that a member catches another member plagiarizing, the group must be alerted. Then, we will request the 24 hour amnesty period. The team member accused must report themselves to the professors. </li> </li>
+  <ul><li> In the event that a member catches another member plagiarizing, the group must be alerted. Then, we will request the 24 hour amnesty period. The team member accused must report themselves to the professors. </ul> </li>
   <li>Edit this</li>
-  <li>Edit this</li>
+  <i>Edit this</li>
   <li> ...</li> <!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
 </ul>

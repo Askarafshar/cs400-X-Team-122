@@ -22,23 +22,24 @@ and missed deadlines.
 ## How we will track progress (and follow-up) on completion of tasks
 
 <ul> <!-- this is an unordered list -->
-  <li>Communication is always key in making sure a task runs smoothly,</li> 
-  <li>We allocated timetable for the tasks, so each member are supposed to finish the task by the specified time.</li>
+  <li>Other than the main deadline for the project, we assign a deadline for the tasks we have listed.</li> 
+  <li>We create a Slack environment for our project, and we communicate with each other through Slack.</li>
   <li> ...</li> <!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
 </ul>
 
 ## How we will communicate difficulties with a task assigned to us
 <ul> <!-- this is an unordered list -->
-  <li>We reach out to the other team members by email,</li> 
-  <li>If it is requitred, we make an appointment for that task.</li>
+  <li>We reach out to the other team members by Slack to seak for help,</li> 
+  <li>If it is required, we make an appointment for that task.</li>
   <li> ...</li> <!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
 </ul>
 
 
 ## How we will back up each other to ensure that deadlines are not missed
 <ul> <!-- this is an unordered list -->
-  <li>We inform each other as we finish a task by emailing the other team members,</li> 
-  <li>We allocated timetable for the tasks, so each member are supposed to finish the task by the specified time.</li>
+  <li>First, we follow our porject time frame, the main and smaller deadlines </li> 
+  <li>We check in with each other and make sure the deadlines are meet on time.</li>
+  <li>If a team member is not meeting the assigned task's deadline, the other team members will take the task over</li>
   <li> ...</li> <!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
 </ul>
 

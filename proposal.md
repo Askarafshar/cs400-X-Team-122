@@ -86,6 +86,9 @@ graph
      <ul><li> GraphADT, the interface for the graph class</li></ul>
      <ul><li> Graph Class, creates the output graph from the input grades and classes</li></ul>
      <ul><li> GradesList Class, a class that stores the grades for the specified courses that are input</li></ul>
+     <ul><li> Main Class, a class that would take in the inputs and turn them into a graph then output the graph</li></ul>
+     <ul><li> TestGraph class, a class that tests the functionality of the graph class</li></ul>
+     <ul><li> TestGradesList Class, a class that tests the functionality of the GradesList class</li></ul>
  </td>
   </te>
 </table>

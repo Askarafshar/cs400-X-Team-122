@@ -72,14 +72,12 @@ number of the students who take the course
 <li>output:</li>
 graph
 </ul>
-<
  </td>
   </te>
     <tr>
     <td>5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
  <ul><li> We would need a way to read the pdf provided for FA18 and interpret those results into our data structure. So a reader may need to be designed in the event that we cannot find a third party PDF reader that works. </li></ul>
- <ul><li> We need a class that sorts the data provided by the reader into the proper data structures. The data structure  </li>
-     <li> we need class to create the output graph</li> 
+ <ul><li> We need a class that sorts the data provided by the reader into the proper data structures. The data structure will most likely be a graph with weights to show different GPA values for different classes. Then, users can see distributions.  </li> <li> we need class to create the output graph</li> 
 <li> we need a test class to test the storage class</li> 
 <li> we need a test class to test the graph class</li> 
      </ul>

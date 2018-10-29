@@ -62,7 +62,17 @@ Describe at a high level a program that could solve that problem.
   </te>
     <tr>
     <td>4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
- <ul><li> ....</li></ul>
+ <ul>    
+  
+<li>input button:</li>
+<li>name of the department</li>
+<li>for name of courses and the number of the courses</li>
+<li>grades for the courses</li>
+<li>number of the students who take the course</li>
+<li>output:</li>
+<li>graph</li>
+</ul>
+
  </td>
   </te>
     <tr>

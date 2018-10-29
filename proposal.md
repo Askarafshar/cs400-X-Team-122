@@ -87,7 +87,7 @@ graph
      <ul><li> Graph Class, creates the output graph from the input grades and classes</li></ul>
      <ul><li> GradesList Class, a class that stores the grades for the specified courses that are input</li></ul>
      <ul><li> Main Class, a class that would take in the inputs and turn them into a graph then output the graph</li></ul>
-     <ul><li> TestGraph class, a class that tests the functionality of the graph class, makes sure output graph is correct</li></ul>
+     <ul><li> TestGraph class, a class that tests the functionality of the graph class, makes sure that the graph that is output is correct</li></ul>
      <ul><li> TestGradesList Class, a class that tests the functionality of the GradesList class, makes sure grades are stored correctly</li></ul>
  </td>
   </te>

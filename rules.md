@@ -14,7 +14,7 @@ and missed deadlines.
   <li>Then, we divide all the tasks into four groups.</li>
   <li>Finally, we consider who the best person is to take them on based on the skills needed to tackle the task.</li>
   <li>If the step 3 didn't work, we will assign each group of the tasks randonmly to the team members</li>
-  <!--<li> ...</li> if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
+  
 </ol>
 
 
@@ -24,14 +24,14 @@ and missed deadlines.
 <ul> <!-- this is an unordered list -->
   <li>Other than the main deadline for the project, we assign a deadline for the tasks we have listed.</li> 
   <li>We create a Slack environment for our project, and we communicate with each other through Slack.</li>
-  <li> ...</li> <!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
+  
 </ul>
 
 ## How we will communicate difficulties with a task assigned to us
 <ul> <!-- this is an unordered list -->
   <li>We reach out to the other team members by Slack to seak for help,</li> 
   <li>If it is required, we make an appointment for that task.</li>
-  <li> ...</li> <!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
+
 </ul>
 
 
@@ -40,7 +40,7 @@ and missed deadlines.
   <li>First, we follow our porject time frame, the main and smaller deadlines </li> 
   <li>We check in with each other and make sure the deadlines are meet on time.</li>
   <li>If a team member is not meeting the assigned task's deadline, the other team members will take the task over</li>
-  <li> ...</li> <!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
+  
 </ul>
 
 

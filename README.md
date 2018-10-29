@@ -2,7 +2,7 @@
 <p align="center"><img src="Images/UW-Madison-Logo.jpg" height="120" width="400"></p>
 
 <!--line--><hr>
-<p style="border-style:solid 5x;">Here is the original repository I imported the files from, in case you want to compare the original format: https://github.com/cs400-deppeler/xteam-exercise-2</p>
+<p style="border-style: solid; border-color: red; border-width: 4px;">Here is the original repository I imported the files from, in case you want to compare the original format with our version: https://github.com/cs400-deppeler/xteam-exercise-2</p>
 
 # xteam-exercise-2: https://github.com/safipourafsh/cs400-X-Team-122
 

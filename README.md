@@ -2,8 +2,14 @@
 <p align="center"><img src="Images/UW-Madison-Logo.jpg" height="120" width="400"></p>
 
 <!--line--><hr>
-<p style="border-style: solid;">Here is the original repository I imported the files from, in case you want to compare the original format with our version: https://github.com/cs400-deppeler/xteam-exercise-2</p>
-
+<table>
+ <tr>
+<td><p style="border-style: solid;">Here is the original repository I imported the files from, in case you want to compare the original format with our version: https://github.com/cs400-deppeler/xteam-exercise-2</p></td>
+  </tr>
+  <tr>
+       <td><p>I will delete this 👆 when we are done! </p></td>
+  </te>
+</table>
 # xteam-exercise-2: https://github.com/safipourafsh/cs400-X-Team-122
 
 1. Edit the title of this document

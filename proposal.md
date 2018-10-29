@@ -36,6 +36,8 @@ Describe at a high level a program that could solve that problem.
 
 - Our program will take an input of letter grades of certain courses available at the University of Wisconsin Madison. The program will then take those inputs and rearrange them into a more comprehensible way in order to make the data more visually understandable. 
 
+- Personal note (Jaskirat Singh): When Aska brought up the idea of a GPA calculator, Paul thought about various grade calculators similar to Rogerhub.com that calculate final scores. However, if we want to utilize the full power of data structures, I thought of a very big project done at UIUC, my previous university, by my previous data structures professor. He reformatted public information to show which professors tend to have lower or higher distributions. The university, the students, and the staff all use the information every year as it is easy to read and comprehensive. He mentioned that he used graphs to create this, and I believe we can use our new knowledge of data structures to make something as useful for Madison. 
+
 ## Questions to answer for Exercise #2
 
 

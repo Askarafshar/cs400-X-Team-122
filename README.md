@@ -4,10 +4,11 @@
 <!--line--><hr>
 <table>
  <tr>
-<td><p style="border-style: solid;">Here is the original repository I imported the files from, in case you want to compare the original format with our version: https://github.com/cs400-deppeler/xteam-exercise-2</p></td>
+   <td><p style="border-style: solid;">Here is the original repository I imported the files from, in case you want to compare the original format with our version: https://github.com/cs400-deppeler/xteam-exercise-2</p>
+   </td>
   </tr>
   <tr>
-       <td><p>I will delete this 👆 when we are done! </p></td>
+    <td><p>I will delete this 👆 when we are done! </p></td>
   </te>
 </table>
 

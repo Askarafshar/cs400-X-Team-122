@@ -14,7 +14,7 @@ and missed deadlines.
   <li>Then, we divide all the tasks into four groups.</li>
   <li>Finally, we consider who the best person is to take them on based on the skills needed to tackle the task.</li>
   <li>If the step 3 didn't work, we will assign each group of the tasks randonmly to the team members</li>
-  <li> ...</li><!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
+  <!--<li> ...</li> if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
 </ol>
 
 

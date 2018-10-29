@@ -55,5 +55,6 @@ and missed deadlines.
   <li>The team must be willing to share its resources.</li>
   <li> The team must have frequent, effective communication.</li>
   <li> The team must be introspective. </li> 
+  <li> The team must listen to all team members and take their ideas into account. </li> 
   
 </ul>

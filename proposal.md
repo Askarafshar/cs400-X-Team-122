@@ -42,7 +42,7 @@ Describe at a high level a program that could solve that problem.
 <table>
  <tr>
    <td>1. Name: Give your project proposal a name (and edit the top line of this file)
-  <ul><li> ....</li></ul>
+  <ul><li> GPA Visualizer</li></ul>
   </td>
   </tr>
   <tr>

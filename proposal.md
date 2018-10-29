@@ -47,7 +47,7 @@ Describe at a high level a program that could solve that problem.
   </tr>
   <tr>
     <td>2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-   <ul><li> ....</li></ul>
+   <ul><li> The program will output a bubble chart of GPA distribution </li></ul>
    </td>
   </te>
     <tr>

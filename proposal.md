@@ -34,6 +34,7 @@ Describe at a high level a program that could solve that problem.
 
 - Our X-Team would like to visualize the grades that UW Madison students got in certain classes at the university in a clean and comprehensive way.
 
+- Our program will take an input of letter grades of certain courses available at the University of Wisconsin Madison. The program will then take those inputs and rearrange them into a more comprehensible way in order to make the data more visually understandable. 
 
 ## Questions to answer for Exercise #2
 

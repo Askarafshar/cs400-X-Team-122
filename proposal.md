@@ -54,7 +54,8 @@ Describe at a high level a program that could solve that problem.
   <td> <p align="center"><img src="Images/OutputExample.png" height="120" width="400"></p> </td>
     <tr>
     <td>3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
- <ul><li> ....</li></ul>
+ <ul><li> The data we will be inputting to solve our problem is public information on the grade distribution. 
+   This data is provided at this link: https://registrar.wisc.edu/wp-content/uploads/sites/36/2018/02/report-gradedistribution-2017-2018fall.pdf and we will place this link under "figures referenced by this document." </li></ul>
  </td>
   </te>
     <tr>

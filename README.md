@@ -1,9 +1,8 @@
-Here is the original repository I imported the files from, in case you want to compare the original format: https://github.com/cs400-deppeler/xteam-exercise-2
-
 <!-- Embeded image and aligned it to the center-->
 <p align="center"><img src="Images/UW-Madison-Logo.jpg" height="120" width="400"></p>
 
 <!--line--><hr>
+<p style="border-style:solid 5x;">Here is the original repository I imported the files from, in case you want to compare the original format: https://github.com/cs400-deppeler/xteam-exercise-2</p>
 
 # xteam-exercise-2: https://github.com/safipourafsh/cs400-X-Team-122
 

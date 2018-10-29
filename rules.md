@@ -47,4 +47,9 @@ and missed deadlines.
 ## Add any other rules that your team establishes to help each other work effectively together
 
 
-
+<ul> <!-- this is an unordered list -->
+  <li>Edit this </li> 
+  <li>Edit this</li>
+  <li>Edit this</li>
+  <li> ...</li> <!-- if you want to add new rules, please add here.  or you can create new <li></li> pairs -->
+</ul>

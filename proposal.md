@@ -65,12 +65,12 @@ Describe at a high level a program that could solve that problem.
  <ul>    
   
 <li>input button:</li>
-<li>name of the department</li>
-<li>for name of courses and the number of the courses</li>
-<li>grades for the courses</li>
-<li>number of the students who take the course</li>
+name of the department
+for name of courses and the number of the courses
+grades for the courses
+number of the students who take the course
 <li>output:</li>
-<li>graph</li>
+graph
 </ul>
 
  </td>

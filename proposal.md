@@ -76,3 +76,4 @@ Describe at a high level a program that could solve that problem.
 
 ## Edit and Submit this file and any figures referenced by this document.
 
+http://waf.cs.illinois.edu/discovery/gpa_of_every_course_at_illinois/

@@ -53,7 +53,7 @@ Describe at a high level a program that could solve that problem.
    </td>
   </tr>
  <tr>
-  <td> <p align="center"><img src="Images/OutputExample.png" height="200" width="400"><p align="center"><u>Figure 1</u></p> </td>
+  <td> <p align="center"><img src="Images/OutputExample.png" height="200" width="400"><p align="center"><i>Figure 1</i></p> </td>
     <tr>
     <td>3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
  <ul><li> The data we will be inputting to solve our problem is public information on the grade distribution. 

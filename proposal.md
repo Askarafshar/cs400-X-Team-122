@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 122 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -59,21 +59,21 @@ Describe at a high level a program that could solve that problem.
  <ul><li> The data we will be inputting to solve our problem is public information on the grade distribution. 
    This data is provided at this link: https://registrar.wisc.edu/wp-content/uploads/sites/36/2018/02/report-gradedistribution-2017-2018fall.pdf and we will place this link under "figures referenced by this document." </li></ul>
  </td>
-  </te>
+  </tr>
     <tr>
     <td>4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
  <ul>    
   
-<li>input button:</li>
-name of the department<br>
-for name of courses and the number of the courses<br>
-grades for the courses<br>
-number of the students who take the course
-<li>output:</li>
-graph
+<li>Input button:</li>
+Name of the department<br>
+Name of courses and the number of the courses<br>
+Grades for the courses<br>
+Number of the students who take the course
+<li>Output:</li>
+Graph
 </ul>
  </td>
-  </te>
+  </tr>
     <tr>
     <td>5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
  <ul><li> We would need a way to read the pdf provided for FA18 and interpret those results into our data structure. So a reader may need to be designed in the event that we cannot find a third party PDF reader that works. </li></ul>
@@ -82,7 +82,7 @@ graph
 <li> we need a test class to test the graph class</li> 
      </ul>
  </td>
-  </te>
+  </tr>
     <tr>
     <td>Name each interface or class and briefly describe its function or purpose.
      <ul><li> GraphADT, the interface for the graph class</li></ul>
@@ -93,7 +93,7 @@ graph
      <ul><li> TestGradesList Class, a class that tests the functionality of the GradesList class, makes sure grades are stored correctly</li></ul>
      
  </td>
-  </te>
+  </tr>
 </table>
 
 ## Edit and Submit this file and any figures referenced by this document.
